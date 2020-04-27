@@ -1,5 +1,5 @@
 
-# This repo contains works for dataquest courses for data analyst track this track divided into 6 steps this is for step 2
+# Data analyst track for **Dataquest** this track divided into 6 steps this is step 2
 
 ## Profitable App Profiles for the App Store and Google Play Markets
 
@@ -15,8 +15,9 @@ what kinds of apps are likely to attract more users.
 
 ### Data sets
 
-- [A data set](https://www.kaggle.com/lava18/google-play-store-apps) containing data about approximately ten thousand Android apps from Google Play. You can download the data set directly from [this link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
-- [A data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately seven thousand iOS apps from the App Store. You can download the data set directly from [this link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
+- [A data set](https://www.kaggle.com/lava18/google-play-store-apps) containing data about approximately **ten thousand Android apps from Google Play.** You can download the data set directly from [this link](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
+
+- [A data set](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps) containing data about approximately **seven thousand iOS apps from the App Store.** You can download the data set directly from [this link](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
 
 
 
